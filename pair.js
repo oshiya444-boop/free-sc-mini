@@ -81,7 +81,7 @@ const config = {
 
 // ---------------- MONGO SETUP ----------------
 
-const MONGO_URI = process.env.MONGO_URI || 'mongodb+srv://malvintech11_db_user:0SBgxRy7WsQZ1KTq@cluster0.xqgaovj.mongodb.net/?appName=Cluster0'; //we need to create a mongodb url soon
+const MONGO_URI = process.env.MONGO_URI || 'mongodb+srv://oshadhaoshadha12345_db_user:SH0m8ksHl8A0ZfBF@oshiya.bc9b5e4.mongodb.net/?appName=Oshiya'; //we need to create a mongodb url soon
 const MONGO_DB = process.env.MONGO_DB || 'Free_Mini';
 
 let mongoClient, mongoDB;
